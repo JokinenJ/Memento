@@ -29,7 +29,7 @@ Dokumentin versionumero kasvaa tekstirivin lisäyksen yhteydessä (ja laskee Und
 ## Tarkoitus
 
 Tehty ainoastaan kouluprojektiin ja Memento-suunnittelumallin esittelyyn.
-Sovellus ei sisällä "oikean" tekstieditorin ominaisuuksia. Tiedostoon tallennusta ei ole, vaan dokumentin tiloja säilytetään ainoastaan väliaikaisesti **mementoissa**.
+Sovellus ei sisällä kaikkia "oikean" tekstieditorin ominaisuuksia. Tiedostoon tallennusta ei ole, vaan dokumentin tiloja säilytetään ainoastaan väliaikaisesti **mementoissa**.
 
 ## Teknologiat
 
